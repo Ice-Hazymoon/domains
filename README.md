@@ -6,5 +6,4 @@
 - 主域名：[https://miku.tools](https://miku.tools)
 
 ## 备用域名
-- 香港A：[https://hk.tools.miku.ac](https://hk.tools.miku.ac)
-- 香港B：[https://hk2.tools.miku.ac](https://hk2.tools.miku.ac)
+- 备用域名A：[https://okmiku.com](https://okmiku.com)
